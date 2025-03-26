@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\Usuario\source\repos\Principio_DIP\Ejemplo2\obj\Debug\Ejemplo2.pdb

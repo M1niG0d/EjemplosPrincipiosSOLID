@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\Users\Usuario\source\repos\Principio_ISP\Ejemplo3\obj\Debug\Ejemplo3.pdb

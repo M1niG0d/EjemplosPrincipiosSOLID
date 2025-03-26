@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\salariorepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\salariorepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\salariorecepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\salariorecepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\salariodesarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\salariodesarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\usuario\\source\\repos\\principio_ocp\\ejemplo1\\salariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A8E022-53E1-4883-AA5B-AECC3A24FF16}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\salariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalarioDesarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioDesarrollador.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\SalarioDesarrollador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioDesarrollador.cs",
+              "RelativeToolTip": "Ejemplo1\\SalarioDesarrollador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:34:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalarioRecepcion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioRecepcion.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\SalarioRecepcion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioRecepcion.cs",
+              "RelativeToolTip": "Ejemplo1\\SalarioRecepcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:21:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalarioRepartidor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioRepartidor.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\SalarioRepartidor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioRepartidor.cs",
+              "RelativeToolTip": "Ejemplo1\\SalarioRepartidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:21:31.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalarioBase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioBase.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\SalarioBase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\SalarioBase.cs",
+              "RelativeToolTip": "Ejemplo1\\SalarioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:18:15.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Calculadora.cs",
+              "RelativeToolTip": "Ejemplo1\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:59:02.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Reporte.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Reporte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Reporte.cs",
+              "RelativeToolTip": "Ejemplo1\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:52:52.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Principio_OCP\\Ejemplo1\\Program.cs",
+              "RelativeToolTip": "Ejemplo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:43:44.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

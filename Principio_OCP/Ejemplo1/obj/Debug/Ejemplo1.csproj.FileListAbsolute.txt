@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Usuario\source\repos\Principio_OCP\Ejemplo1\obj\Debug\Ejemplo1.pdb
